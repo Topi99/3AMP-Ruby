@@ -45,5 +45,4 @@ puts "\nTotal de defectuosos: #{acum}"
 totDefect = acumPor / 5
 puts "Porcentaje total: #{totDefect}%"
 
-
 gets()
